@@ -41,12 +41,9 @@ importers:
       react-dom:
         specifier: 19.2.4
         version: 19.2.4(react@19.2.4)
-<<<<<<< HEAD
-=======
       slugify:
         specifier: ^1.6.8
         version: 1.6.8
->>>>>>> dev
     devDependencies:
       '@eslint/eslintrc':
         specifier: ^3.2.0
